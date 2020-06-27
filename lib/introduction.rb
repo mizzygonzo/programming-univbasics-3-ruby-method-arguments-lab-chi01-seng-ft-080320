@@ -1,7 +1,7 @@
 
 #intro 
 def introduction(name)
-puts "hi, my name is #{name}."
+puts "Hi, my name is #{name}."
 end 
 
 #intro with language
